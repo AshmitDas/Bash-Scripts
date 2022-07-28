@@ -53,7 +53,7 @@ echo -e "\nusername:\n${USER_NAME}"
 echo -e "\npassword:\n${PASSWORD}"
 
 # Display current host name.
-echo -e "\nhost:\n"
+echo -e "\nhost:"
 echo "${HOSTNAME}"
 
 exit 0
